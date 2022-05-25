@@ -2,7 +2,7 @@ name: Validate IBM Data
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
